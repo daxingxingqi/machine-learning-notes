@@ -36,7 +36,7 @@ https://www.kaggle.com/neviadomski/data-exploration-two-sigma-renthop
   - 数据是否符合i.i.d.
   <div align=center><img src=resources/0F4030639E6BD266BF3B355B65D870D0.jpg></div>
   <div align=center><img src=resources/01102297C761364F1276CDB64CBC996B.jpg></div>
-- 箱形图(Box Plot)
+- [箱形图(Box Plot)](https://zh.wikipedia.org/wiki/%E7%AE%B1%E5%BD%A2%E5%9C%96)
   - 可以直观查看数值变量的分布
   <div align=center><img src=resources/8BAD2A2B00EED0B27064E3ADCD605D41.jpg></div>
 - 琴形图(Violin Plot)
