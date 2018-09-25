@@ -36,10 +36,10 @@ https://www.kaggle.com/neviadomski/data-exploration-two-sigma-renthop
   - 数据是否符合i.i.d.
   <div align=center><img src=resources/0F4030639E6BD266BF3B355B65D870D0.jpg></div>
   <div align=center><img src=resources/01102297C761364F1276CDB64CBC996B.jpg></div>
-- [箱形图(Box Plot)](https://zh.wikipedia.org/wiki/%E7%AE%B1%E5%BD%A2%E5%9C%96)
+- [箱形图(Box Plot)](https://en.wikipedia.org/wiki/Box_plot)
   - 可以直观查看数值变量的分布
   <div align=center><img src=resources/8BAD2A2B00EED0B27064E3ADCD605D41.jpg></div>
-- 琴形图(Violin Plot)
+- [琴形图(Violin Plot)](https://datavizcatalogue.com/methods/violin_plot.html)
   - 表征了在一个或多个分类变量情况下连续变量数据的分布，并进行了比较，是一种观察多个数据分布有效方法
   <div align=center><img width=700 src=resources/BE3C40A3DF25CCE4F9EAB2A19E11465F.jpg></div>
 - Correlation Coefficient图，表征变量之间两两分布和相关度 
